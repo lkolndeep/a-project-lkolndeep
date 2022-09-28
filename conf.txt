@@ -3,8 +3,4 @@ conf2
 conf3
 bloc
 configuration 4
-texte
-texte
-texte
-texte
 Conf5
